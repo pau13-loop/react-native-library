@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View } from 'react-native';
-import { LibraryMdsTestView } from 'react-native-library-mds-test';
+import { LibraryMdsTestView } from '@test/react-native-library-mds-test';
 
 export default function App() {
   return (
